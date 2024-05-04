@@ -52,6 +52,9 @@ While Haar Cascades offer a good starting point for car number plate detection, 
 * `Display the image:` Use cv2.imshow to display the original image with the drawn bounding boxes (if visualization was enabled).
 * `Extract plate regions:` For further processing like character recognition, you can use the coordinates of the bounding boxes to crop out the detected plate regions from the original image.
 
+## Output IMG :
+![output_1](https://github.com/SINGHxTUSHAR/Cascading-Vision/assets/113624520/88951926-63dd-46c6-a269-8cd4c15be6e0)
+
 ## Requirements💻 :
 
 Ensure you have the following dependencies installed:
