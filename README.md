@@ -53,7 +53,12 @@ While Haar Cascades offer a good starting point for car number plate detection, 
 * `Extract plate regions:` For further processing like character recognition, you can use the coordinates of the bounding boxes to crop out the detected plate regions from the original image.
 
 ## Output IMG :
+For more output image references , click on the link: <a href="https://github.com/SINGHxTUSHAR/Cascading-Vision/tree/main/output">img</a>
 ![output_1](https://github.com/SINGHxTUSHAR/Cascading-Vision/assets/113624520/88951926-63dd-46c6-a269-8cd4c15be6e0)
+
+## Reference 🧧:
+* openCV Documentation <a href="https://docs.opencv.org/4.x/"> openCV </a>
+* Cascade Classifier Documentation <a href="https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html"> Haar Cascade </a>
 
 ## Requirements💻 :
 
